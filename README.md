@@ -23,11 +23,9 @@ This project features an interactive Tableau dashboard designed to analyze sales
 * **Data Analysis**: Trend analysis, KPI development, and Geospatial mapping.
 * **Problem Solving**: Identifying loss-leaders and optimizing regional sales strategy.
 
-👤 Author
-
-Ohm Patel
+## 👤 Author
+**Ohm Patel**
 Bachelor's Student — Business Analytics and Information Systems
-Project: Sales & Profit Performance Dashboard
 
 📄 License
 
